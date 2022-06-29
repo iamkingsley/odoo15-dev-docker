@@ -1,0 +1,399 @@
+2022-06-29 14:39:31,726 1 INFO None odoo.service.db: Create database `odoo15`. 
+2022-06-29 14:39:33,554 1 INFO odoo15 odoo.modules.loading: loading 1 modules... 
+2022-06-29 14:39:33,555 1 INFO odoo15 odoo.modules.loading: Loading module base (1/1) 
+2022-06-29 14:39:33,593 1 INFO odoo15 odoo.modules.registry: module base: creating or updating database tables 
+2022-06-29 14:39:35,843 1 INFO odoo15 odoo.models: Storing computed values of ir.module.module.menus_by_module 
+2022-06-29 14:39:35,844 1 INFO odoo15 odoo.models: Storing computed values of ir.module.module.reports_by_module 
+2022-06-29 14:39:35,845 1 INFO odoo15 odoo.models: Storing computed values of ir.module.module.views_by_module 
+2022-06-29 14:39:35,849 1 INFO odoo15 odoo.models: Storing computed values of res.partner.display_name 
+2022-06-29 14:39:35,850 1 INFO odoo15 odoo.models: Storing computed values of res.partner.partner_share 
+2022-06-29 14:39:35,851 1 INFO odoo15 odoo.models: Storing computed values of res.partner.commercial_partner_id 
+2022-06-29 14:39:35,852 1 INFO odoo15 odoo.models: Storing computed values of res.partner.commercial_company_name 
+2022-06-29 14:39:35,854 1 INFO odoo15 odoo.models: Storing computed values of res.currency.decimal_places 
+2022-06-29 14:39:35,861 1 INFO odoo15 odoo.models: Storing computed values of res.company.logo_web 
+2022-06-29 14:39:35,862 1 INFO odoo15 odoo.models: Storing computed values of res.company.company_registry 
+2022-06-29 14:39:35,870 1 INFO odoo15 odoo.models: Storing computed values of res.users.share 
+2022-06-29 14:39:37,911 1 INFO odoo15 odoo.modules.loading: loading base/data/res_bank.xml 
+2022-06-29 14:39:37,919 1 INFO odoo15 odoo.modules.loading: loading base/data/res.lang.csv 
+2022-06-29 14:39:38,022 1 INFO odoo15 odoo.modules.loading: loading base/data/res_lang_data.xml 
+2022-06-29 14:39:38,049 1 INFO odoo15 odoo.modules.loading: loading base/data/res_partner_data.xml 
+2022-06-29 14:39:38,153 1 INFO odoo15 odoo.modules.loading: loading base/data/res_company_data.xml 
+2022-06-29 14:39:38,171 1 INFO odoo15 odoo.modules.loading: loading base/data/res_users_data.xml 
+2022-06-29 14:39:38,271 1 INFO odoo15 odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2022-06-29 14:39:38,285 1 INFO odoo15 odoo.modules.loading: loading base/data/res_currency_data.xml 
+2022-06-29 14:39:38,940 1 INFO odoo15 odoo.modules.loading: loading base/data/res_country_data.xml 
+2022-06-29 14:39:39,641 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2022-06-29 14:39:39,656 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2022-06-29 14:39:39,667 1 INFO odoo15 odoo.modules.loading: loading base/security/base_groups.xml 
+2022-06-29 14:39:40,170 1 INFO odoo15 odoo.modules.loading: loading base/security/base_security.xml 
+2022-06-29 14:39:40,495 1 INFO odoo15 odoo.modules.loading: loading base/views/base_menus.xml 
+2022-06-29 14:39:40,612 1 INFO odoo15 odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2022-06-29 14:39:40,633 1 INFO odoo15 odoo.modules.loading: loading base/views/res_config_views.xml 
+2022-06-29 14:39:40,647 1 INFO odoo15 odoo.modules.loading: loading base/data/res.country.state.csv 
+2022-06-29 14:39:42,167 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2022-06-29 14:39:42,338 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2022-06-29 14:39:42,367 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2022-06-29 14:39:42,398 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2022-06-29 14:39:42,439 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2022-06-29 14:39:42,468 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2022-06-29 14:39:42,496 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2022-06-29 14:39:42,530 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_model_views.xml 
+2022-06-29 14:39:42,747 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2022-06-29 14:39:42,781 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2022-06-29 14:39:42,819 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2022-06-29 14:39:42,849 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_translation_views.xml 
+2022-06-29 14:39:42,895 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2022-06-29 14:39:42,923 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2022-06-29 14:39:42,992 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_default_views.xml 
+2022-06-29 14:39:43,023 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2022-06-29 14:39:43,033 1 INFO odoo15 odoo.modules.loading: loading base/report/ir_model_report.xml 
+2022-06-29 14:39:43,041 1 INFO odoo15 odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2022-06-29 14:39:43,050 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2022-06-29 14:39:43,079 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2022-06-29 14:39:43,094 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_module_views.xml 
+2022-06-29 14:39:43,193 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2022-06-29 14:39:43,309 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_module_module.xml 
+2022-06-29 14:39:43,406 1 INFO odoo15 odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2022-06-29 14:39:43,412 1 INFO odoo15 odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2022-06-29 14:39:43,422 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2022-06-29 14:39:43,440 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2022-06-29 14:39:43,452 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2022-06-29 14:39:43,469 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2022-06-29 14:39:43,499 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2022-06-29 14:39:43,511 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2022-06-29 14:39:43,530 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_update_translations_views.xml 
+2022-06-29 14:39:43,550 1 INFO odoo15 odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2022-06-29 14:39:43,571 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2022-06-29 14:39:43,578 1 INFO odoo15 odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2022-06-29 14:39:43,595 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2022-06-29 14:39:43,628 1 INFO odoo15 odoo.modules.loading: loading base/views/res_company_views.xml 
+2022-06-29 14:39:43,662 1 INFO odoo15 odoo.modules.loading: loading base/views/res_lang_views.xml 
+2022-06-29 14:39:43,693 1 INFO odoo15 odoo.modules.loading: loading base/views/res_partner_views.xml 
+2022-06-29 14:39:43,853 1 INFO odoo15 odoo.modules.loading: loading base/views/res_bank_views.xml 
+2022-06-29 14:39:43,897 1 INFO odoo15 odoo.modules.loading: loading base/views/res_country_views.xml 
+2022-06-29 14:39:43,953 1 INFO odoo15 odoo.modules.loading: loading base/views/res_currency_views.xml 
+2022-06-29 14:39:44,007 1 INFO odoo15 odoo.modules.loading: loading base/views/res_users_views.xml 
+2022-06-29 14:39:44,158 1 INFO odoo15 odoo.modules.loading: loading base/views/ir_property_views.xml 
+2022-06-29 14:39:44,191 1 INFO odoo15 odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2022-06-29 14:39:44,203 1 INFO odoo15 odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2022-06-29 14:39:44,245 1 INFO odoo15 odoo.modules.loading: loading base/views/onboarding_views.xml 
+2022-06-29 14:39:44,282 1 INFO odoo15 odoo.modules.loading: loading base/security/ir.model.access.csv 
+2022-06-29 14:39:44,629 1 INFO odoo15 odoo.modules.loading: Module base loaded in 11.07s, 9524 queries 
+2022-06-29 14:39:44,630 1 INFO odoo15 odoo.modules.loading: 1 modules loaded in 11.08s, 9524 queries (+0 extra) 
+2022-06-29 14:39:44,696 1 INFO odoo15 odoo.modules.loading: updating modules list 
+2022-06-29 14:39:44,697 1 INFO odoo15 odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 172.31.0.1 
+2022-06-29 14:39:45,667 1 INFO odoo15 odoo.modules.loading: loading 7 modules... 
+2022-06-29 14:39:45,668 1 INFO odoo15 odoo.modules.loading: Loading module web (2/7) 
+2022-06-29 14:39:45,730 1 INFO odoo15 odoo.modules.registry: module web: creating or updating database tables 
+2022-06-29 14:39:46,377 1 INFO odoo15 odoo.modules.loading: loading web/security/ir.model.access.csv 
+2022-06-29 14:39:46,391 1 INFO odoo15 odoo.modules.loading: loading web/views/webclient_templates.xml 
+2022-06-29 14:39:46,463 1 INFO odoo15 odoo.modules.loading: loading web/views/report_templates.xml 
+2022-06-29 14:39:46,574 1 INFO odoo15 odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2022-06-29 14:39:46,591 1 INFO odoo15 odoo.modules.loading: loading web/views/speedscope_template.xml 
+2022-06-29 14:39:46,599 1 INFO odoo15 odoo.modules.loading: loading web/views/lazy_assets.xml 
+2022-06-29 14:39:46,610 1 INFO odoo15 odoo.modules.loading: loading web/data/report_layout.xml 
+2022-06-29 14:39:46,673 1 INFO odoo15 odoo.modules.loading: Module web loaded in 1.00s, 886 queries 
+2022-06-29 14:39:46,674 1 INFO odoo15 odoo.modules.loading: Loading module auth_totp (3/7) 
+2022-06-29 14:39:46,728 1 INFO odoo15 odoo.modules.registry: module auth_totp: creating or updating database tables 
+2022-06-29 14:39:46,840 1 INFO odoo15 odoo.modules.loading: loading auth_totp/security/security.xml 
+2022-06-29 14:39:46,882 1 INFO odoo15 odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2022-06-29 14:39:46,900 1 INFO odoo15 odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2022-06-29 14:39:46,910 1 INFO odoo15 odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2022-06-29 14:39:46,947 1 INFO odoo15 odoo.modules.loading: loading auth_totp/views/templates.xml 
+2022-06-29 14:39:46,957 1 INFO odoo15 odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2022-06-29 14:39:46,991 1 INFO odoo15 odoo.modules.loading: Module auth_totp loaded in 0.32s, 192 queries 
+2022-06-29 14:39:46,992 1 INFO odoo15 odoo.modules.loading: Loading module base_import (4/7) 
+2022-06-29 14:39:47,057 1 INFO odoo15 odoo.modules.registry: module base_import: creating or updating database tables 
+2022-06-29 14:39:48,195 1 INFO odoo15 odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2022-06-29 14:39:48,271 1 INFO odoo15 odoo.modules.loading: Module base_import loaded in 1.28s, 919 queries 
+2022-06-29 14:39:48,272 1 INFO odoo15 odoo.modules.loading: Loading module web_editor (5/7) 
+2022-06-29 14:39:48,336 1 INFO odoo15 odoo.modules.registry: module web_editor: creating or updating database tables 
+2022-06-29 14:39:48,524 1 INFO odoo15 odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2022-06-29 14:39:48,541 1 INFO odoo15 odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2022-06-29 14:39:48,549 1 INFO odoo15 odoo.modules.loading: loading web_editor/views/editor.xml 
+2022-06-29 14:39:48,586 1 INFO odoo15 odoo.modules.loading: loading web_editor/views/snippets.xml 
+2022-06-29 14:39:48,654 1 INFO odoo15 odoo.modules.loading: Module web_editor loaded in 0.38s, 245 queries 
+2022-06-29 14:39:48,655 1 INFO odoo15 odoo.modules.loading: Loading module web_kanban_gauge (6/7) 
+2022-06-29 14:39:48,819 1 INFO odoo15 odoo.modules.loading: Module web_kanban_gauge loaded in 0.16s, 18 queries 
+2022-06-29 14:39:48,820 1 INFO odoo15 odoo.modules.loading: Loading module web_tour (7/7) 
+2022-06-29 14:39:48,880 1 INFO odoo15 odoo.modules.registry: module web_tour: creating or updating database tables 
+2022-06-29 14:39:48,949 1 INFO odoo15 odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2022-06-29 14:39:48,970 1 INFO odoo15 odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2022-06-29 14:39:48,987 1 INFO odoo15 odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2022-06-29 14:39:49,040 1 INFO odoo15 odoo.modules.loading: Module web_tour loaded in 0.22s, 116 queries 
+2022-06-29 14:39:49,041 1 INFO odoo15 odoo.modules.loading: 7 modules loaded in 3.37s, 2376 queries (+0 extra) 
+2022-06-29 14:39:49,306 1 INFO odoo15 odoo.modules.loading: Modules loaded. 
+2022-06-29 14:39:49,311 1 INFO odoo15 odoo.modules.registry: Registry loaded in 15.767s 
+2022-06-29 14:39:49,435 1 INFO odoo15 odoo.addons.base.models.res_users: Login successful for db:odoo15 login:dev@ibit-soft.com from 172.31.0.1 
+2022-06-29 14:39:49,452 1 INFO odoo15 odoo.modules.registry: Registry changed, signaling through the database 
+2022-06-29 14:39:49,461 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:49] "POST /web/database/create HTTP/1.1" 303 - 16386 11.817 5.959
+2022-06-29 14:39:49,474 1 INFO odoo15 odoo.addons.base.models.ir_http: Generating routing map for key None 
+2022-06-29 14:39:53,211 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web HTTP/1.1" 200 - 193 0.124 3.616
+2022-06-29 14:39:53,288 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/assets/13-20592f1/web.assets_common.min.css HTTP/1.1" 200 - 2 0.001 0.020
+2022-06-29 14:39:53,369 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/assets/14-2320738/web.assets_backend.min.css HTTP/1.1" 200 - 2 0.006 0.068
+2022-06-29 14:39:53,490 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/assets/17-c5d9c77/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 2 0.030 0.116
+2022-06-29 14:39:53,492 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/assets/16-2320738/web.assets_backend.min.js HTTP/1.1" 200 - 2 0.018 0.158
+2022-06-29 14:39:53,499 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/webclient/load_menus/783977f7e9348da888ef2bb0dfa8b786cf48d95cd15f50e48455e1eab0c4dbf1 HTTP/1.1" 200 - 1 0.001 0.174
+2022-06-29 14:39:53,501 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/assets/15-20592f1/web.assets_common.min.js HTTP/1.1" 200 - 2 0.023 0.166
+2022-06-29 14:39:53,695 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:53] "GET /web/webclient/qweb/2bebfff6028b58643f8a25540410e37ece11a5bea849be52ff5870d5f462bf2e?bundle=web.assets_qweb HTTP/1.1" 200 - 2 0.041 0.305
+2022-06-29 14:39:54,283 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 17 0.054 0.027
+2022-06-29 14:39:54,313 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 11 0.030 0.030
+2022-06-29 14:39:54,316 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "POST /web/action/load HTTP/1.1" 200 - 28 0.052 0.057
+2022-06-29 14:39:54,415 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 57 0.036 0.046
+2022-06-29 14:39:54,483 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 43 0.019 0.019
+2022-06-29 14:39:54,509 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.004 0.010
+2022-06-29 14:39:54,664 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:39:54] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.015
+2022-06-29 14:40:05,314 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:05] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.020 0.020
+2022-06-29 14:40:05,337 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:05] "POST /web/dataset/search_read HTTP/1.1" 200 - 2 0.002 0.009
+2022-06-29 14:40:08,302 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:08] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.021 0.021
+2022-06-29 14:40:08,330 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:08] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.004 0.013
+2022-06-29 14:40:08,440 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:08] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.006
+2022-06-29 14:40:10,318 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:10] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.020 0.022
+2022-06-29 14:40:10,341 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:10] "POST /web/dataset/search_read HTTP/1.1" 200 - 2 0.002 0.008
+2022-06-29 14:40:17,739 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:17] "POST /web/action/load HTTP/1.1" 200 - 41 0.032 0.034
+2022-06-29 14:40:17,848 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:17] "POST /web/dataset/call_kw/res.users/load_views HTTP/1.1" 200 - 54 0.040 0.053
+2022-06-29 14:40:17,890 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:17] "POST /web/dataset/search_read HTTP/1.1" 200 - 16 0.011 0.013
+2022-06-29 14:40:17,910 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:17] "POST /web/dataset/call_kw/res.users/has_group HTTP/1.1" 200 - 2 0.002 0.005
+2022-06-29 14:40:27,845 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:27] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.023 0.021
+2022-06-29 14:40:27,867 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:27] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.003 0.009
+2022-06-29 14:40:28,063 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:40:28] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.007
+2022-06-29 14:41:11,778 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:41:11] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.036 0.024
+2022-06-29 14:41:11,803 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:41:11] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.004 0.008
+2022-06-29 14:41:11,827 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:41:11] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.006
+2022-06-29 14:44:15,829 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:15] "GET /web HTTP/1.1" 200 - 12 0.010 0.040
+2022-06-29 14:44:15,890 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:15] "GET /web/assets/13-20592f1/web.assets_common.min.css HTTP/1.1" 200 - 2 0.002 0.016
+2022-06-29 14:44:16,018 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/assets/15-20592f1/web.assets_common.min.js HTTP/1.1" 200 - 2 0.006 0.093
+2022-06-29 14:44:16,032 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/assets/14-2320738/web.assets_backend.min.css HTTP/1.1" 200 - 2 0.011 0.107
+2022-06-29 14:44:16,095 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/assets/17-c5d9c77/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 2 0.033 0.127
+2022-06-29 14:44:16,146 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/assets/16-2320738/web.assets_backend.min.js HTTP/1.1" 200 - 2 0.024 0.197
+2022-06-29 14:44:16,148 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/webclient/load_menus/783977f7e9348da888ef2bb0dfa8b786cf48d95cd15f50e48455e1eab0c4dbf1 HTTP/1.1" 200 - 1 0.012 0.190
+2022-06-29 14:44:16,297 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:16] "GET /web/webclient/qweb/2bebfff6028b58643f8a25540410e37ece11a5bea849be52ff5870d5f462bf2e?bundle=web.assets_qweb HTTP/1.1" 200 - 2 0.031 0.312
+2022-06-29 14:44:17,044 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "POST /web/action/load HTTP/1.1" 200 - 14 0.016 0.025
+2022-06-29 14:44:17,116 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 5 0.010 0.019
+2022-06-29 14:44:17,167 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 4 0.005 0.014
+2022-06-29 14:44:17,192 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 23 0.031 0.056
+2022-06-29 14:44:17,257 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.019 0.018
+2022-06-29 14:44:17,286 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.003 0.011
+2022-06-29 14:44:17,463 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:17] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.007
+2022-06-29 14:44:22,901 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:22] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.021 0.023
+2022-06-29 14:44:22,923 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:22] "POST /web/dataset/search_read HTTP/1.1" 200 - 2 0.002 0.008
+2022-06-29 14:44:28,197 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:28] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.020 0.019
+2022-06-29 14:44:28,230 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:28] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.004 0.017
+2022-06-29 14:44:28,344 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:28] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.005
+2022-06-29 14:44:33,124 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:33] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.039 0.035
+2022-06-29 14:44:33,170 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:33] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.007 0.015
+2022-06-29 14:44:33,199 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:44:33] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.008
+2022-06-29 14:45:41,942 1 ERROR ? odoo.addons.bus.models.bus: Bus.loop error, sleep and retry 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/addons/bus/models/bus.py", line 177, in loop
+    conn.poll()
+psycopg2.OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/addons/bus/models/bus.py", line 200, in run
+    self.loop()
+  File "/usr/lib/python3/dist-packages/odoo/addons/bus/models/bus.py", line 186, in loop
+    event.set()
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 161, in __exit__
+    self.close()
+  File "<decorator-gen-4>", line 2, in close
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 89, in check
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 378, in close
+    return self._close(False)
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 404, in _close
+    self.rollback()
+  File "<decorator-gen-8>", line 2, in rollback
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 89, in check
+    return f(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/odoo/sql_db.py", line 483, in rollback
+    result = self._cnx.rollback()
+psycopg2.InterfaceError: connection already closed
+2022-06-29 14:46:31,993 1 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2022-06-29 14:47:12,944 1 INFO odoo15 odoo.modules.registry: Reloading the model registry after database signaling. 
+2022-06-29 14:47:12,946 1 INFO odoo15 odoo.modules.registry: Reloading the model registry after database signaling. 
+2022-06-29 14:47:12,968 1 INFO odoo15 odoo.modules.loading: loading 1 modules... 
+2022-06-29 14:47:12,979 1 INFO odoo15 odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2022-06-29 14:47:12,995 1 INFO odoo15 odoo.modules.loading: loading 37 modules... 
+2022-06-29 14:47:13,022 1 INFO odoo15 odoo.modules.loading: 37 modules loaded in 0.02s, 0 queries (+0 extra) 
+2022-06-29 14:47:13,114 1 INFO odoo15 odoo.modules.loading: Modules loaded. 
+2022-06-29 14:47:13,122 1 INFO odoo15 odoo.modules.registry: Registry loaded in 0.178s 
+2022-06-29 14:47:13,129 1 INFO odoo15 odoo.modules.loading: loading 1 modules... 
+2022-06-29 14:47:13,140 1 INFO odoo15 odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2022-06-29 14:47:13,154 1 INFO odoo15 odoo.modules.loading: loading 37 modules... 
+2022-06-29 14:47:13,180 1 INFO odoo15 odoo.modules.loading: 37 modules loaded in 0.02s, 0 queries (+0 extra) 
+2022-06-29 14:47:13,266 1 INFO odoo15 odoo.modules.loading: Modules loaded. 
+2022-06-29 14:47:13,271 1 INFO odoo15 odoo.modules.registry: Registry loaded in 0.324s 
+2022-06-29 14:47:13,271 1 INFO odoo15 odoo.addons.base.models.ir_http: Generating routing map for key None 
+2022-06-29 14:47:13,272 1 INFO odoo15 odoo.addons.base.models.ir_http: Generating routing map for key None 
+2022-06-29 14:47:13,572 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:13] "POST /web/dataset/search_read HTTP/1.1" 200 - 16 0.043 0.596
+2022-06-29 14:47:13,572 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:13] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 16 0.016 0.627
+2022-06-29 14:47:15,492 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:15] "GET /web HTTP/1.1" 303 - 1 0.001 0.014
+2022-06-29 14:47:15,812 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:15] "GET /web/login HTTP/1.1" 200 - 86 0.084 0.222
+2022-06-29 14:47:15,887 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:15] "GET /web/assets/804-c963771/web.assets_common.min.css HTTP/1.1" 200 - 5 0.005 0.017
+2022-06-29 14:47:16,546 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:16] "GET /web/webclient/qweb/1656514029283?bundle=web.assets_frontend HTTP/1.1" 200 - 10 0.004 0.032
+2022-06-29 14:47:23,532 1 INFO odoo15 odoo.addons.base.models.res_users: Login successful for db:odoo15 login:dev@ibit-soft.com from 172.31.0.1 
+2022-06-29 14:47:23,553 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:23] "POST /web/login HTTP/1.1" 303 - 45 0.051 0.105
+2022-06-29 14:47:23,855 1 INFO odoo15 odoo.addons.base.models.ir_attachment: _read_file reading /var/lib/odoo/filestore/odoo15/be/bec854152c45b91ceef552335382f9d614106cf4 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/tools/cache.py", line 85, in lookup
+    r = d[key]
+  File "/usr/lib/python3/dist-packages/odoo/tools/func.py", line 71, in wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/odoo/tools/lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: ('ir.ui.menu', <function IrUiMenu.load_menus at 0x7f29c0f339d0>, 2, '1', ('en_US',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 808
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'ir.attachment(808,).datas'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 808
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'ir.attachment(808,).raw'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/addons/base/models/ir_attachment.py", line 119, in _file_read
+    with open(full_path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/var/lib/odoo/filestore/odoo15/be/bec854152c45b91ceef552335382f9d614106cf4'
+2022-06-29 14:47:24,162 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web HTTP/1.1" 200 - 247 0.162 0.437
+2022-06-29 14:47:24,221 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web/assets/804-c963771/web.assets_common.min.css HTTP/1.1" 200 - 2 0.002 0.015
+2022-06-29 14:47:24,277 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web/assets/805-1482bb5/web.assets_backend.min.css HTTP/1.1" 200 - 2 0.002 0.056
+2022-06-29 14:47:24,347 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web/assets/806-c963771/web.assets_common.min.js HTTP/1.1" 200 - 2 0.017 0.106
+2022-06-29 14:47:24,347 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web/assets/807-1482bb5/web.assets_backend.min.js HTTP/1.1" 200 - 2 0.011 0.078
+2022-06-29 14:47:24,349 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:24] "GET /web/webclient/load_menus/385ca6105fc40fa8385d8e4e6605f9039f6f34b404af102bcbb051870cddfcce HTTP/1.1" 200 - 1 0.030 0.049
+2022-06-29 14:47:25,095 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /web/action/load HTTP/1.1" 200 - 28 0.037 0.036
+2022-06-29 14:47:25,231 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /web/dataset/call_kw/res.users/systray_get_activities HTTP/1.1" 200 - 2 0.004 0.023
+2022-06-29 14:47:25,323 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /mail/init_messaging HTTP/1.1" 200 - 64 0.145 0.082
+2022-06-29 14:47:25,343 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 4 0.015 0.066
+2022-06-29 14:47:25,353 1 INFO odoo15 odoo.addons.base.models.ir_attachment: _read_file reading /var/lib/odoo/filestore/odoo15/e7/e7aa49e28912f86a83133bd5730a9f410d778dff 
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'res.users(2,).avatar_128'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 3
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'res.partner(3,).avatar_128'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 3
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'res.partner(3,).image_128'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 152
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'ir.attachment(152,).datas'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 886, in get
+    return field_cache[record._ids[0]]
+KeyError: 152
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/fields.py", line 1057, in __get__
+    value = env.cache.get(record, self)
+  File "/usr/lib/python3/dist-packages/odoo/api.py", line 889, in get
+    raise CacheMiss(record, field)
+odoo.exceptions.CacheMiss: 'ir.attachment(152,).raw'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/addons/base/models/ir_attachment.py", line 119, in _file_read
+    with open(full_path, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/var/lib/odoo/filestore/odoo15/e7/e7aa49e28912f86a83133bd5730a9f410d778dff'
+2022-06-29 14:47:25,402 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 6 0.041 0.125
+2022-06-29 14:47:25,422 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.015 0.025
+2022-06-29 14:47:25,435 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /mail/load_message_failures HTTP/1.1" 200 - 11 0.027 0.031
+2022-06-29 14:47:25,489 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 57 0.112 0.095
+2022-06-29 14:47:25,558 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 43 0.020 0.017
+2022-06-29 14:47:25,580 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.003 0.009
+2022-06-29 14:47:25,709 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:25] "GET /salon_management/static/description/icon.png HTTP/1.1" 404 - 2 0.001 0.015
+2022-06-29 14:47:30,744 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:30] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.023 0.022
+2022-06-29 14:47:30,770 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:47:30] "POST /web/dataset/search_read HTTP/1.1" 200 - 3 0.005 0.009
+2022-06-29 14:48:15,391 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:48:15] "POST /longpolling/poll HTTP/1.1" 200 - 13 0.079 50.079
+2022-06-29 14:48:16,169 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:48:16] "POST /longpolling/im_status HTTP/1.1" 200 - 4 0.009 0.027
+2022-06-29 14:48:30,909 1 INFO ? odoo.service.server: Initiating shutdown 
+2022-06-29 14:48:30,935 1 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-06-29 14:48:31,165 1 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 6 connections  
+2022-06-29 14:48:31,195 1 INFO odoo15 werkzeug: 172.31.0.1 - - [29/Jun/2022 14:48:31] "POST /longpolling/poll HTTP/1.1" 200 - 9 0.009 15.773
