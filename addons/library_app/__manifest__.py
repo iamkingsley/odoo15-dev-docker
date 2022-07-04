@@ -13,7 +13,7 @@
     'category': "Services/Library",
     'version': '1.0',
     'application': "True",
-    'licence': "AGPL-3", # LGPL-3, OPL-3(proprietary)
+    'license': "AGPL-3", # LGPL-3, OPL-3(proprietary)
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
