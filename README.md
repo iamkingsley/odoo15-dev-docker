@@ -41,3 +41,13 @@ $ docker run -p 8069:8069 --name odoo --link db:db -t odoo -i base
 $ docker stop odoo
 $ docker start -a odoo
 ```
+
+## To add a new addon module
+- #### Attach a shell on the running odoo container
+    ```js
+    docker exec -ti container_name bash
+    ```
+- #### Run the script below in the shell to create the module
+    ```js 
+    /usr/bin/odoo scaffold module_name /mnt/extra-addons
+    ```
