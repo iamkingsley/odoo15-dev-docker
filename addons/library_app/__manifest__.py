@@ -20,9 +20,10 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
-        'views/views.xml',
-        'views/templates.xml',
+        # It is common for menu items to reference security groups, and so it 
+        # is a good practice to add security definitions before menu and view definitions.
+        "security/library_security.xml",
+        'views/library_menu.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
