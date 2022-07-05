@@ -6,7 +6,7 @@
     <field name="arch" type="xml"> 
       <form> 
         <header> 
-          <!-- <button name="check_isbn" type="object" string="Check ISBN" />  -->
+          <button name="check_isbn" type="object" string="Check ISBN" class="btn btn-primary" /> 
         </header> 
         <sheet> 
           <group name="group_top"> 
@@ -53,5 +53,5 @@
       </search> 
     </field> 
   </record>
-  
+
 </odoo>
