@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "library_app",
+    'name': "Library Management",
 
     'summary': "Manage library catalog and book lending.",
 
@@ -24,6 +24,7 @@
         # is a good practice to add security definitions before menu and view definitions.
         "security/library_security.xml",
         "security/ir.model.access.csv",
+        "views/book_views.xml",
         'views/library_menu.xml',
     ],
     # only loaded in demonstration mode
