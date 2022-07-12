@@ -1,11 +1,11 @@
 version: '3.1'
 services:
-  odoo:
+  library:
     image: odoo:15
     depends_on:
       - db
     ports:
-      - "8069:8069"
+      - "8070:8069"
     tty: true # crucial for addons
     command: -- --dev=reload # crucial for addons
     volumes:
